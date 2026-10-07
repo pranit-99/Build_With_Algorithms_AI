@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Java
+*.class
+bin/
+target/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# React / Node
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
